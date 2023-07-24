@@ -6,4 +6,5 @@ while name!="your name":  # While loop becomes true when name=="your name"
     name=input()  # Storing user input in the name variable
 print('thank you')  # This line gets executed when the while loop becomes true
 
+#He's just a bit tough guy
 
