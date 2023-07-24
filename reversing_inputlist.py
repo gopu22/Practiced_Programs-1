@@ -3,9 +3,10 @@
 a=input("enter the list a: ")  # user input 'a'
 b=input("enter the list b: ")  # user input 'b'
 add=a+b  # adding 'a' and 'b'
-print(add)  # printing the added value
+print(add)  # printing the added values of 'a' and 'b'
 print(sorted(add))  # sorting the added values
 reverse=add[::-1]   # reversing the sorted array
 print(reverse)  # printing the reversed array
 
+# Final output
 
